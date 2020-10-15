@@ -37,7 +37,7 @@ Mac, Linux: 기본적으로 Python이 제공 됩니다.
 
 - 소스코드 저장
 
-	``$ git clone https://github.com/jae0077/movieapi.git``
+	``$ git clone https://github.com/jae0077/movie_api.git``
 - 변경내용 저장 및 테이블 적용
 
   ``$ python manage.py makemigrations``
